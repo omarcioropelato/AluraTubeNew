@@ -1,0 +1,36 @@
+{
+    "name": "Márcio Ropelato",
+    "job": "Lead Software Engineer",
+    "github": "omarcioropelato",
+    "playlists": {
+        "boardgames": [
+            {
+                "title": "Primeiras Impressões: Oak",
+                "url": "https://www.youtube.com/watch?v=4F_Hv6AYRLk&t=116s",
+                "thumb": "https://img.youtube.com/vi/4F_Hv6AYRLk/hqdefault.jpg"
+            },
+            {
+                "title": "Novo Jogo de Miniaturas do D&D - Notícias da Semana",
+                "url": "https://www.youtube.com/watch?v=t4Rav24LSsc&t=253s",
+                "thumb": "https://img.youtube.com/vi/t4Rav24LSsc/hqdefault.jpg"
+            }           
+        ],
+        "podcasts": [
+            {
+                "title": "Quando técnicos da NBA copiam jogadas do passado",
+                "url": "https://www.youtube.com/watch?v=WUd9QEGJ78I&t=20s",
+                "thumb": "https://img.youtube.com/vi/WUd9QEGJ78I/hqdefault.jpg"
+            },
+            {
+                "title": "Luka Doncic engole a defesa do Toronto Raptors [Prancheta]",
+                "url": "https://www.youtube.com/watch?v=IwqnQbk56eo",
+                "thumb": "https://img.youtube.com/vi/IwqnQbk56eo/hqdefault.jpg"
+            },
+            {
+                "title": "A regra salarial que pode mudar a NBA [15 Minutos]",
+                "url": "https://www.youtube.com/watch?v=F5WYJ6aX-os",
+                "thumb": "https://img.youtube.com/vi/F5WYJ6aX-os/hqdefault.jpg"
+            }                        
+        ]        
+    }
+}
